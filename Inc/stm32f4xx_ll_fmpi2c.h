@@ -27,7 +27,7 @@ extern "C" {
 
 #if defined(FMPI2C_CR1_PE)
 /* Includes ------------------------------------------------------------------*/
-#include "stm32f4xx.h"
+#include "distortos/chip/CMSIS-proxy.h"
 
 /** @addtogroup STM32F4xx_LL_Driver
   * @{

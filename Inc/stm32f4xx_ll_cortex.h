@@ -42,7 +42,7 @@ extern "C" {
 #endif
 
 /* Includes ------------------------------------------------------------------*/
-#include "stm32f4xx.h"
+#include "distortos/chip/CMSIS-proxy.h"
 
 /** @addtogroup STM32F4xx_LL_Driver
   * @{
